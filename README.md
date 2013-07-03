@@ -60,4 +60,5 @@ CONTRIBUTORS (Update your names below)
 - Akshay
 - Abhinav
 - Abhishek Shanker
+- Ayush Chugh
 
